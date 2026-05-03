@@ -1,8 +1,13 @@
 __pycache__/
 *.pyc
 *.log
-.env
 uv.lock
 *.egg-info/
 .idea/
 .claude/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
